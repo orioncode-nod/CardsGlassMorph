@@ -22,5 +22,5 @@ Cada tarjeta tiene un efecto:
 ---
 ## Vista previa
 
-[ver en GitHub pages] 
+[ver en GitHub pages] (https://orioncode-nod.github.io/CardsGlassMorph/)
 
